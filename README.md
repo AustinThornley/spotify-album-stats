@@ -13,3 +13,5 @@ Usage:
 
 Adjust the `DATA_FOLDER` and `MIN_MS_PLAYED` constants in [program.py](program.py)
 to your liking if needed.
+
+NOTE: Some of these numbers may not be accurate. For example, if you play a single song from an album, that will count as an album play. Feel free to modify the code to suit your needs. This is just for fun and gives me a general idea of my listening habits and how they've changed over the years.

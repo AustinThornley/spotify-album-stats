@@ -12,6 +12,8 @@ Usage:
     2. Run: python spotify_album_stats.py
     3. Results print to the console and are also saved to
        album_statistics.csv in the current directory.
+
+NOTE: Some of these numbers may not be accurate. For example, if you play a single song from an album, that will count as an album play. Feel free to modify the code to suit your needs. This is just for fun and gives me a general idea of my listening habits and how they've changed over the years.
 """
 
 import json
